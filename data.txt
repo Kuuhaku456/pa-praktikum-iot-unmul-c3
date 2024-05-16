@@ -1,0 +1,1 @@
+{'Humidity': '47.00000', 'Temperature': '26.90000'}
