@@ -27,6 +27,7 @@ Berikut ini komponen yag digunakan:
 7.	Servo x1
 
 # Board Schematic
+![Board Schematic](https://github.com/Kuuhaku456/pa-praktikum-iot-unmul-c3/blob/main/schematic.png)
 
 
 
